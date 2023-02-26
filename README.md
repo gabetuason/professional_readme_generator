@@ -11,7 +11,7 @@ This is a command-line application that dynamically generates a professional REA
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#how-to-contribute)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
