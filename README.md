@@ -25,7 +25,7 @@ After installing the required files above, in your prefered command terminal you
 
 
 For more help on usage, please view screenshot and video demonstration.
-![screenshot]()
+![screenshot](https://github.com/gabetuason/professional_readme_generator/blob/copyofmain/Develop/images/readmeScreenshot.PNG)
 
 Video: 
 
